@@ -8,7 +8,10 @@ https://groups.google.com/a/continuum.io/forum/#!topic/bokeh/jmWFAtr20I0
 I realized that such a plot might provide an interesting view for some work I was doing - so I provided a quick solution.
 
 Before:
+
 ![before](https://github.com/afonit/step_line/blob/master/images/before.png)
 
+
 After:
+
 ![after](https://github.com/afonit/step_line/blob/master/images/after.png)
